@@ -1,0 +1,19 @@
+{
+"quran_title" : "القرأن الكريم",
+"hadeth_title" : "الاحاديث",
+"tasbeh_title" : "التسبيح",
+"radio_title" : "الأذاعة",
+"setting_title" : "الاعدادات",
+"surah_number" : "رقم السورة",
+"surah_name" : "اسم السورة",
+"quran" : "القرأن",
+"hadeth" : "الاحاديث",
+"tasbeh" : "التسبيح",
+"radio" : "الأذاعة",
+"language" : "اللغة",
+"theme" : "المظهر",
+"about" : "عن التطبيق",
+"light" : "فاتح",
+"dark" : "مظلم",
+"numbertasbeh" : "عدد التسبيحات"
+}

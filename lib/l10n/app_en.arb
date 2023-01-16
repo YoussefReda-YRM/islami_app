@@ -1,0 +1,20 @@
+{
+"quran_title" : "Quran",
+"hadeth_title" : "Hadeth",
+"tasbeh_title" : "Tasbeh",
+"radio_title" : "Radio",
+"setting_title" : "Settings",
+"surah_number" : "Surah Number",
+"surah_name" : "Surah Name",
+"quran" : "Quran",
+"hadeth" : "Hadeth",
+"tasbeh" : "Tasbeh",
+"radio" : "Radio",
+"language" : "Language",
+"theme" : "Theme",
+"about" : "About",
+"light" : "Light",
+"dark" : "Dark",
+"numbertasbeh" : "Number Of Tasbeh"
+
+}
